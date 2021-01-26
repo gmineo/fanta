@@ -8,5 +8,3 @@ go to the URL below and it will launch an interactive environment:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gmineo/fanta/master?2019-2020.ipynb)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gmineo/Finance/master?Machine-learning-for-finance2.ipynb)
-
